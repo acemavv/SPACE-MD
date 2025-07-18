@@ -54,6 +54,16 @@
     "value": "",
     "required": false
   },
+    "STARTING_BOT_MESSAGE": {
+    "description": "Bot Starting, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)",
+    "value": "",
+    "required": false
+  },
+    "BOT_PREFIX": {
+    "description": "Prefix of bot. (Change your bot prefix. You can use emojis😂)",
+    "value": "",
+    "required": false
+  },
     "ADMIN_PASSWORD": {
     "description": "This will be used as a password for gaining administrative access to the bot",
     "value": "11223344",
