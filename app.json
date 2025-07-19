@@ -59,13 +59,18 @@
     "value": "",
     "required": false
   },
-    "SET_PREFIX": {
+    "PREFIX": {
     "description": "Set prefix",
     "value": "",
     "required": false
   },
-"ADD_SUDO": {
+"SUDO": {
     "description": "Set sudo numbers without +",
+    "value": "",
+    "required": false
+  },
+  "MODE": {
+    "description": "Set mode for your bot",
     "value": "",
     "required": false
   },
@@ -79,27 +84,27 @@
     "value": "",
     "required": true
   },
-"SET_BOT_NAME": {
+"BOT_NAME": {
     "description": "Set your bot name",
     "value": "",
     "required": false
   },
-"SET_OWNER_NAME": {
+"OWNER_NAME": {
     "description": "Set owner name",
     "value": "",
     "required": false
   },
-"SET_OWNER_NUMBER": {
+"OWNER_NUMBER": {
     "description": "Set Owner number",
     "value": "",
     "required": false
   },
-"SET_STICKER_AUTHOR": {
+"STICKER_AUTHOR": {
     "description": "Set Author stic",
     "value": "",
     "required": false
   },
-"SET_STICKER_PACKNAME": {
+"STICKER_PACKNAME": {
     "description": "Set packname",
     "value": "",
     "required": false
