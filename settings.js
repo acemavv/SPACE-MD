@@ -27,8 +27,15 @@ module.exports = {
   
    //Antidelete and Antiedit functionality, set true to enable and false to disable. (⚠️ This function consumes a lot of memory + storage, only enable if you have enough resources ⚠️)
    ANTI_DELETE: process.env.ANTI_DELETE || 'false',
-
-  BOT_PREFIX: process.env.BOT_PREFIX || '#',
+SET_PREFIX: process.env.SET_PREFIX || '#',
+ADD_SUDO: process.env.ADD_SUDO || '3197010238621',
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'false',
+AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || 'true',
+SET_BOT_NAME: process.env.SET_BOT_NAME || '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑',
+SET_OWNER_NAME: process.env.SET_OWNER_NAME || '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ ❬𝕯❭',
+SET_OWNER_NUMBER: process.env.SET_OWNER_NUMBER || '254726856795',
+SET_STICKER_AUTHOR: process.env.SET_STICKER_AUTHOR || 'ค̡҃сɛ ӄ𝖎𝐫қ ❬𝕯❭',
+SET_STICKER_PACKNAME: process.env.SET_STICKER_PACKNAME || '𝙸 αɱ ค̡ƈє™⟬𝟭⟭',
 
   STARTING_BOT_MESSAGE: process.env.STARTING_BOT_MESSAGE || 'false',
   
