@@ -59,8 +59,48 @@
     "value": "",
     "required": false
   },
-    "BOT_PREFIX": {
-    "description": "Prefix of bot. (Change your bot prefix. You can use emojis😂)",
+    "SET_PREFIX": {
+    "description": "Set prefix",
+    "value": "",
+    "required": false
+  },
+"ADD_SUDO": {
+    "description": "Set sudo numbers without +",
+    "value": "",
+    "required": false
+  },
+"ALWAYS_ONLINE": {
+    "description": "Leave false",
+    "value": "",
+    "required": false
+  },
+"AUTO_VIEW_STATUS": {
+    "description": "Set false or true",
+    "value": "",
+    "required": true
+  },
+"SET_BOT_NAME": {
+    "description": "Set your bot name",
+    "value": "",
+    "required": false
+  },
+"SET_OWNER_NAME": {
+    "description": "Set owner name",
+    "value": "",
+    "required": false
+  },
+"SET_OWNER_NUMBER": {
+    "description": "Set Owner number",
+    "value": "",
+    "required": false
+  },
+"SET_STICKER_AUTHOR": {
+    "description": "Set Author stic",
+    "value": "",
+    "required": false
+  },
+"SET_STICKER_PACKNAME": {
+    "description": "Set packname",
     "value": "",
     "required": false
   },
